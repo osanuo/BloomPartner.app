@@ -1,0 +1,118 @@
+# Page title
+page_title                                : Bloom – Cycle, Fertility & Pregnancy Tracker
+
+# App Info
+ios_app_id                                :                                           # Add App Store ID when published
+ios_app_country                           : pl
+
+appstore_link                             :                                           # Add when live on App Store
+playstore_link                            :
+presskit_download_link                    :
+
+app_icon                                  : assets/appicon.png
+app_name                                  : Bloom
+app_price                                 : Free · Premium available
+app_description                           : Your complete women's health companion. Track your cycle, fertility window, pregnancy journey, and postpartum recovery — beautifully and privately, all in one app.
+enable_smart_app_banner                   : false
+
+
+
+# Information About Yourself
+your_name                                 : osanuo
+your_link                                 : https://github.com/osanuo
+your_city                                 : Warsaw
+email_address                             : osanuo.studio@gmail.com
+linkedin_username                         :
+linkedin_company                          :
+facebook_username                         :
+instagram_username                        :
+twitter_username                          :
+github_username                           : osanuo
+youtube_username                          :
+mastodon_link                             :
+
+
+
+# Feature List
+features                                  :
+
+  - title: Cycle Tracking
+    description: Log your period, symptoms, mood, and energy daily. Bloom predicts your next cycle, fertile window, and each phase — Menstrual, Follicular, Ovulation, and Luteal.
+    fontawesome_icon_name: heart
+
+  - title: TTC — Trying to Conceive
+    description: Know your peak fertility days. Bloom highlights your fertile window and ovulation day, tracks BBT, and monitors LH surge data to maximise your chances.
+    fontawesome_icon_name: seedling
+
+  - title: Pregnancy Tracker
+    description: Week-by-week pregnancy companion. See your baby's size, trimester milestones, kick counter, contraction timer, weight chart, and days until your due date.
+    fontawesome_icon_name: baby
+
+  - title: Postpartum Recovery
+    description: Track your 12-week recovery, log feeding sessions, monitor sleep fragmentation, and check in on your mood — because your health matters after birth too.
+    fontawesome_icon_name: home
+
+  - title: Health Insights
+    description: Cycle length history, mood & energy patterns, hormone phase science, feeding analytics, and a personal Health Score that improves as you log consistently.
+    fontawesome_icon_name: chart-bar
+
+  - title: Private by Design
+    description: All data lives on your device with optional iCloud sync. No account required. No ads. No tracking. What you log stays yours.
+    fontawesome_icon_name: lock
+
+
+
+# Theme Settings — Bloom cream & red
+topbar_color                              : "#F7F5F4"
+topbar_transparency                       : 0.92
+topbar_title_color                        : "#8B1A1A"
+
+cover_image                               : assets/headerimage.png
+cover_overlay_color                       : "#2B0A0A"
+cover_overlay_transparency                : 0.6
+
+device_color                              : black
+
+body_background_color                     : "#F7F5F4"
+
+link_color                                : "#8B1A1A"
+
+app_title_color                           : "#F7F5F4"
+app_price_color                           : "#F7F5F4"
+app_description_color                     : "#F7F5F4"
+
+feature_title_color                       : "#1A0A0A"
+feature_text_color                        : "#6B5555"
+
+feature_icons_foreground_color            : "#8B1A1A"
+feature_icons_background_color            : "#F0E8E8"
+
+social_icons_foreground_color             : "#8B1A1A"
+social_icons_background_color             : "#F0E8E8"
+
+footer_text_color                         : "#A08080"
+
+
+app_privacy_policy_url                    : https://osanuo.github.io/Bloom.app/privacypolicy/
+app_terms_conditions_url                  : https://osanuo.github.io/Bloom.app/terms/
+
+
+
+####################################################
+### Jekyll Configuration. No need to touch this. ###
+####################################################
+
+sass:
+  style: :compressed
+
+exclude:
+  - LICENSE
+  - README.md
+  - CNAME
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+markdown: kramdown
