@@ -4,13 +4,13 @@ title: Terms of Service
 include_in_header: false
 ---
 
-# Terms of Service for Bloom
+# Terms of Service for Bloom Partner
 
-**Last Updated: March 23, 2026**
+**Last Updated: March 28, 2026**
 
 ## Agreement to Terms
 
-By downloading, installing, or using the Bloom mobile application ("App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree, do not use the App.
+By downloading, installing, or using the Bloom Partner mobile application ("App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree, do not use the App.
 
 **Developer**: Dawid (Osanuo)
 **Location**: Warsaw, Poland
@@ -20,74 +20,60 @@ By downloading, installing, or using the Bloom mobile application ("App"), you a
 
 ## Description of Service
 
-Bloom is a women's health tracking application that helps users track their menstrual cycle, fertility, pregnancy, and postpartum recovery. The App provides health insights, predictions, and reminders based on data you enter.
+Bloom Partner is a free, read-only companion app for the Bloom women's health tracker. It allows you to view a real-time snapshot of your partner's cycle, pregnancy, or postpartum data — data she has explicitly chosen to share with you via a 6-character code.
 
-**Important**: Bloom is for informational and personal tracking purposes only. It is **not a medical device** and does not provide medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider for medical decisions.
+**Important**: Bloom Partner displays health information for informational purposes only. It is **not a medical device** and does not provide medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider for medical decisions.
+
+---
+
+## How the App Works
+
+Your partner generates a share code in the Bloom app. You enter that code in Bloom Partner to view her shared snapshot. The code expires after 30 days unless renewed. Either party can disconnect at any time.
 
 ---
 
 ## User Accounts
 
-Bloom does not require account creation. All data is stored locally on your device or in your personal iCloud account. No registration is needed.
+Bloom Partner does not require account creation. No registration, Apple ID, or iCloud account is needed to use the App.
 
 ---
 
 ## Subscriptions and Purchases
 
-### Free Features
-Core tracking features are available free of charge.
-
-### Premium Subscription
-Some advanced features require a Premium subscription purchased through the App Store:
-- Pricing and billing are managed entirely by Apple
-- Subscriptions auto-renew unless cancelled at least 24 hours before the end of the current period
-- You can manage and cancel subscriptions in your App Store account settings
-
-### Refunds
-Refund requests must be submitted to Apple. We have no control over App Store refund decisions.
+Bloom Partner is completely free. There are no in-app purchases, subscriptions, or premium tiers.
 
 ---
 
 ## Health Disclaimer
 
-**Bloom is not a medical device.**
+**Bloom Partner is not a medical device.**
 
-- Bloom's cycle predictions, fertility estimates, and health insights are based on statistical models and the data you provide — they are not guaranteed to be accurate
-- Do not use Bloom as your sole method of contraception
-- Do not use Bloom to make medical decisions
-- Pregnancy test results, fertility treatments, and medical diagnoses should always be confirmed by a licensed healthcare professional
-- If you experience unusual symptoms, complications, or concerns, contact your doctor immediately
+- Data displayed in Bloom Partner is sourced from your partner's Bloom app and may not be complete or fully up to date
+- Do not use this App to make medical decisions
+- If your partner experiences unusual symptoms, complications, or concerns, encourage her to contact a doctor immediately
 
 ---
 
 ## Acceptable Use
 
-You agree to use Bloom only for lawful personal health tracking purposes. You agree not to:
+You agree to use Bloom Partner only with the explicit consent of your partner. You agree not to:
 
+- Use a share code you were not given directly by the person whose data it represents
 - Attempt to reverse engineer, decompile, or modify the App
 - Use the App for any commercial purpose without permission
-- Attempt to gain unauthorized access to any systems related to the App
+- Attempt to gain unauthorized access to any systems or data related to the App
 
 ---
 
 ## Intellectual Property
 
-All content, design, code, and features of Bloom are the intellectual property of Dawid (Osanuo). You are granted a limited, non-exclusive, non-transferable licence to use the App for personal, non-commercial purposes.
+All content, design, code, and features of Bloom Partner are the intellectual property of Dawid (Osanuo). You are granted a limited, non-exclusive, non-transferable licence to use the App for personal, non-commercial purposes.
 
 ---
 
 ## Privacy
 
-Your use of Bloom is governed by our [Privacy Policy](/Bloom.app/privacypolicy). By using the App, you consent to the data practices described therein.
-
----
-
-## Apple Health (HealthKit)
-
-If you grant Bloom access to Apple Health:
-- You acknowledge that health data is sensitive and you take responsibility for granting this permission
-- You can revoke access at any time in **Settings → Privacy & Security → Health → Bloom**
-- We handle HealthKit data in accordance with Apple's HealthKit guidelines and our Privacy Policy
+Your use of Bloom Partner is governed by our [Privacy Policy](/privacypolicy). By using the App, you consent to the data practices described therein.
 
 ---
 
@@ -95,10 +81,10 @@ If you grant Bloom access to Apple Health:
 
 To the maximum extent permitted by law:
 
-- Bloom is provided "as is" without warranties of any kind
+- Bloom Partner is provided "as is" without warranties of any kind
 - We are not liable for any indirect, incidental, or consequential damages
-- We are not liable for health decisions made based on App data
-- Our total liability shall not exceed the amount you paid for the App in the 12 months prior to the claim
+- We are not liable for decisions made based on data displayed in the App
+- The App relies on data provided by a third-party user (your partner) — we are not responsible for the accuracy or completeness of that data
 
 ---
 
@@ -113,7 +99,7 @@ If you are an EU consumer, you have statutory rights that cannot be excluded by 
 
 ## Changes to Terms
 
-We may update these Terms from time to time. Continued use of the App after changes constitutes acceptance of the new Terms. We will notify you of significant changes within the App.
+We may update these Terms from time to time. Continued use of the App after changes constitutes acceptance of the new Terms.
 
 ---
 
@@ -121,8 +107,8 @@ We may update these Terms from time to time. Continued use of the App after chan
 
 **Developer**: Dawid (Osanuo)
 **Email**: osanuo.studio@gmail.com
-**Website**: https://osanuo.github.io/Bloom.app/
+**Website**: https://osanuo.github.io/BloomPartner.app/
 
 ---
 
-*These Terms of Service are effective as of March 23, 2026.*
+*These Terms of Service are effective as of March 28, 2026.*

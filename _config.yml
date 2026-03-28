@@ -1,5 +1,5 @@
 # Page title
-page_title                                : Bloom – Cycle, Fertility & Pregnancy Tracker
+page_title                                : Bloom Partner – Stay Close to Her Journey
 
 # App Info
 ios_app_id                                :                                           # Add App Store ID when published
@@ -10,9 +10,9 @@ playstore_link                            :
 presskit_download_link                    :
 
 app_icon                                  : assets/appicon.png
-app_name                                  : Bloom
-app_price                                 : Free · Premium available
-app_description                           : Your complete women's health companion. Track your cycle, fertility window, pregnancy journey, and postpartum recovery — beautifully and privately, all in one app.
+app_name                                  : Bloom Partner
+app_price                                 : Free
+app_description                           : Stay close to her journey. Bloom Partner shows you her cycle, pregnancy, or postpartum progress in real time — so you always know when to show up.
 enable_smart_app_banner                   : false
 
 
@@ -36,28 +36,28 @@ mastodon_link                             :
 # Feature List
 features                                  :
 
-  - title: Cycle Tracking
-    description: Log your period, symptoms, mood, and energy daily. Bloom predicts your next cycle, fertile window, and each phase — Menstrual, Follicular, Ovulation, and Luteal.
+  - title: Real-Time Updates
+    description: Bloom Partner refreshes automatically whenever she logs. Always see the latest snapshot — no manual syncing, no delays.
+    fontawesome_icon_name: sync
+
+  - title: Cycle & Fertility View
+    description: See her current phase, fertile window, and ovulation day at a glance. Know when she needs extra support or space.
     fontawesome_icon_name: heart
 
-  - title: TTC — Trying to Conceive
-    description: Know your peak fertility days. Bloom highlights your fertile window and ovulation day, tracks BBT, and monitors LH surge data to maximise your chances.
-    fontawesome_icon_name: seedling
-
-  - title: Pregnancy Tracker
-    description: Week-by-week pregnancy companion. See your baby's size, trimester milestones, kick counter, contraction timer, weight chart, and days until your due date.
+  - title: Pregnancy Dashboard
+    description: Week by week — baby size, trimester, due date countdown, and upcoming appointments. Be present for every milestone.
     fontawesome_icon_name: baby
 
-  - title: Postpartum Recovery
-    description: Track your 12-week recovery, log feeding sessions, monitor sleep fragmentation, and check in on your mood — because your health matters after birth too.
+  - title: Postpartum Support
+    description: Track feeding sessions, mood check-ins, and 12-week recovery progress. Know how she and baby are really doing after birth.
     fontawesome_icon_name: home
 
-  - title: Health Insights
-    description: Cycle length history, mood & energy patterns, hormone phase science, feeding analytics, and a personal Health Score that improves as you log consistently.
-    fontawesome_icon_name: chart-bar
+  - title: Partner Notifications
+    description: Get notified when her period starts, ovulation day arrives, a new pregnancy week begins, or mood needs attention.
+    fontawesome_icon_name: bell
 
   - title: Private by Design
-    description: All data lives on your device with optional iCloud sync. No account required. No ads. No tracking. What you log stays yours.
+    description: She controls what's shared via a 6-character code. Her data never leaves her device — you only see what she chooses to share.
     fontawesome_icon_name: lock
 
 
@@ -93,8 +93,8 @@ social_icons_background_color             : "#F0E8E8"
 footer_text_color                         : "#A08080"
 
 
-app_privacy_policy_url                    : https://osanuo.github.io/Bloom.app/privacypolicy/
-app_terms_conditions_url                  : https://osanuo.github.io/Bloom.app/terms/
+app_privacy_policy_url                    : https://osanuo.github.io/BloomPartner.app/privacypolicy/
+app_terms_conditions_url                  : https://osanuo.github.io/BloomPartner.app/terms/
 
 
 
